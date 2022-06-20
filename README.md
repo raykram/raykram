@@ -16,5 +16,5 @@ I am a vocational high school student who is interested in technology especially
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raykram&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/raykram/raykram)
 
 
-  ![Snake animation](https://github.com/carlosathyla/carlosathyla/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/raykram/raykram/github-contribution-grid-snake.svg)
 
